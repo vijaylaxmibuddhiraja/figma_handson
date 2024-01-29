@@ -1,0 +1,16 @@
+.logo {
+  
+  font-family: "Circular Std";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 160%; /* 48px */
+  letter-spacing: -0.6px;
+  color:#0A1B32;
+  margin-top: 37px;
+  margin-left: 80px;
+}
+
+.logo-dot {
+  color: olivedrab;
+}
