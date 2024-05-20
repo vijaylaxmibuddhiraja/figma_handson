@@ -1,13 +1,13 @@
-.logo{margin-top:37px;margin-left:80px;font-family:"'Montserrat', sans-serif";font-size:30px;font-style:normal;font-weight:900;line-height:160%;letter-spacing:-.6px;color:#0A1B32;cursor:pointer}.logo-dot{color:olivedrab}.navbar{list-style:none}.navbar li{display:inline-block;padding:0 20px}.navbar li a{transition:all 0.3s ease 0s}.navbar li a:hover{color:blue}button{padding:9px 25px;background-color:rgb(0 136 169);color:#fff;border:none;border-radius:8px;cursor:pointer;transition:all 0.3s ease 0s;font-size:16px;font-weight:500px}button:hover{background-color:rgb(0 136 169)}li,a{font-family:'Montserrat',sans-serif;font-weight:500;font-size:16px;color:#0A1B32;text-decoration:none}header{display:flex;justify-content:space-between;align-items:center;padding:30px 10%}.home{max-width:45px;width:100%;height:24px;margin-top:48px;margin-left:272px;font-family:"'Montserrat', sans-serif";font-size:30px;font-style:normal;font-weight:900;line-height:160%,48px;letter-spacing:-.6px;color:#0A1B32}section{display:inline-block}.main-heading{max-width:495px;width:100%;margin-top:281px;margin-left:200px;color:#1B0A42;font-family:"Ramaraja";font-size:72px;font-style:normal;font-weight:400;line-height:76px;letter-spacing:1.44px}.content-info{max-width:538px;width:100%;margin-top:10px;margin-left:200px;color:#9A9A9A;font-family:'Roboto',sans-serif;font-size:20px;font-style:normal;font-weight:400;line-height:32px;letter-spacing:.4px}.main-btn-button:active{background-color:crimson}.main-btn{width:152px;height:63px;border-radius:6px;background:#4F56F1;margin-top:50px;margin-left:200px;color:#FFF;text-align:center;font-family:Roboto;font-size:16px;font-style:normal;font-weight:700;line-height:32px;letter-spacing:.32px;border:none}
+/*.logo{margin-top:37px;margin-left:80px;font-family:"'Montserrat', sans-serif";font-size:30px;font-style:normal;font-weight:900;line-height:160%;letter-spacing:-.6px;color:#0A1B32;cursor:pointer}.logo-dot{color:olivedrab}.navbar{list-style:none}.navbar li{display:inline-block;padding:0 20px}.navbar li a{transition:all 0.3s ease 0s}.navbar li a:hover{color:blue}button{padding:9px 25px;background-color:rgb(0 136 169);color:#fff;border:none;border-radius:8px;cursor:pointer;transition:all 0.3s ease 0s;font-size:16px;font-weight:500px}button:hover{background-color:rgb(0 136 169)}li,a{font-family:'Montserrat',sans-serif;font-weight:500;font-size:16px;color:#0A1B32;text-decoration:none}header{display:flex;justify-content:space-between;align-items:center;padding:30px 10%}.home{max-width:45px;width:100%;height:24px;margin-top:48px;margin-left:272px;font-family:"'Montserrat', sans-serif";font-size:30px;font-style:normal;font-weight:900;line-height:160%,48px;letter-spacing:-.6px;color:#0A1B32}section{display:inline-block}.main-heading{max-width:495px;width:100%;margin-top:281px;margin-left:200px;color:#1B0A42;font-family:"Ramaraja";font-size:72px;font-style:normal;font-weight:400;line-height:76px;letter-spacing:1.44px}.content-info{max-width:538px;width:100%;margin-top:10px;margin-left:200px;color:#9A9A9A;font-family:'Roboto',sans-serif;font-size:20px;font-style:normal;font-weight:400;line-height:32px;letter-spacing:.4px}.main-btn-button:active{background-color:crimson}.main-btn{width:152px;height:63px;border-radius:6px;background:#4F56F1;margin-top:50px;margin-left:200px;color:#FFF;text-align:center;font-family:Roboto;font-size:16px;font-style:normal;font-weight:700;line-height:32px;letter-spacing:.32px;border:none}*/
 
-/*.logo {
+.logo {
    margin-top: 37px;
    margin-left: 80px;
    font-family: "'Montserrat', sans-serif";
    font-size: 30px;
    font-style: normal;
    font-weight: 900;
-   line-height: 160%; /* 48px 
+   line-height: 160%; /* 48px */
    letter-spacing: -0.6px;
    color:#0A1B32;
    cursor: pointer;  
@@ -82,7 +82,7 @@ section {
     font-size: 72px;
     font-style: normal;
     font-weight: 400;
-    line-height: 76px; /* 105.556% 
+    line-height: 76px; /* 105.556% */
     letter-spacing: 1.44px;   
 }
 .content-info{
@@ -95,7 +95,7 @@ section {
     font-size: 20px;
     font-style: normal; 
     font-weight: 400;
-    line-height: 32px; /* 160% 
+    line-height: 32px; /* 160% */
     letter-spacing: 0.4px;
 }
 .main-btn-button:active {
@@ -114,8 +114,8 @@ section {
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
-    line-height: 32px; /* 200% 
+    line-height: 32px; /* 200% */
     letter-spacing: 0.32px;
     border: none;    
-}*/
+}
 
